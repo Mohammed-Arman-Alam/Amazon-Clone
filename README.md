@@ -1,2 +1,2 @@
 # Amazon-Clone
-this is my first clone.
+This is my first Repository.
